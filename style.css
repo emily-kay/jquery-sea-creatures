@@ -1,0 +1,18 @@
+body {
+    color: steelblue
+}
+
+table{
+    border: black;
+    border-style: double;
+    width: 40px;
+    height: 20px;
+}
+
+td, th{
+    border-left: black;
+    border-bottom: black;
+    border-style: solid;
+    width: 40px;
+    height: 20px;
+}
